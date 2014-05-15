@@ -6,9 +6,8 @@ A python implementation of the board game reversi - a course project for a pytho
 Reversi is a classic turn based strategy game for two players. It also known as Othello. The game starts on a 8x8 board.
 ###Rules:
 - The games starts in this position
-      <br><img alt="game start" width="200" height="200">
+![alt game_start](http://cas.ee.ic.ac.uk/people/as999/FPTDesignComp/start_pos.jpg)
 - If a player puts a piece so that between that piece and another one of his pieces there are only enemy pieces without an empty field then those enemy pieces become his own.
-      <br><img alt="taken pieces example" width="200" height="200">
 - A player can make only a move that takes at least one of his opponent's pieces.
 - If there are more than one directions in which there are only opponent's pieces followed by a piece of his own then all pieces in all such directions are taken.
 - If a player cannot make a valid move then he passes the turn to the other player.
