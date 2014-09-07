@@ -13,10 +13,10 @@ Reversi is a strategy board game for two players. It also known as Othello. The 
 <br>![alt first turn](http://cas.ee.ic.ac.uk/people/as999/FPTDesignComp/first_move.jpg)
 - If there are more than one directions in which there are only opponent's pieces followed by a piece of his own then all pieces in all such directions are taken.
 - If a player cannot make a valid move then he passes the turn to the other player.
-- The game ends when all fields have been taken or when neither player can make a turn. The winner is the player with the most pieces on the board. 
+- The game ends when all fields have been taken or when neither player can make a turn. The winner is the player with the most pieces on the board.
 
 ###Game modes:
-- single player (vs AI) - with 3 difficulty levels - easy, medium and hard
+- single player (vs AI)
 - multiplayer - vs another player of his/her choice on the same server
 
 ###Additional info:
